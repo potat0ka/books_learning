@@ -21,13 +21,11 @@ Improve my programming skills by reading quality books and getting recommendatio
 - Data Structures & Algorithms
 - System Design
 - Clean Code practices
-- [Add your specific interests]
 
 **Preferred topics:**
-- Backend development
-- Database design
-- Software architecture
-- [Add your preferences]
+- Data science
+- AI
+- ML
 
 ## 💡 Recommend Me Books!
 
