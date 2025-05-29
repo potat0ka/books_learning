@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Notebook caches (if using Jupyter etc.)
+*.ipynb_checkpoints
+
+# Logs, configs
+*.log
+.env
